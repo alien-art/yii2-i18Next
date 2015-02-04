@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
  */
 class Asset extends AssetBundle
 {
-    public $sourcePath = '@bower/i18next/dist';
+    public $sourcePath = '@bower/i18next';
     public $path = '';
     public $css = [];
     public $js = [
