@@ -1,7 +1,7 @@
 {
-    "name": "apollo/yii2-i18Next",
+    "name": "apollo/yii2-i18next",
     "description": "Assets for use i18 next",
-    "type": "yii2-i18Next",
+    "type": "yii2-i18next",
     "keywords": ["yii2","i18Next.js"],
     "license": "BSD-3-Clause",
     "require": {
@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "apollo\\yii2\\i18Next\\": ""
+            "apollo\\yii2\\i18next\\": ""
         }
     }
 }

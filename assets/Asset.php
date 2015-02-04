@@ -1,5 +1,5 @@
 <?php
-namespace apollo\yii2\i18Next\assets;
+namespace apollo\yii2\i18next\assets;
 
 use yii\web\AssetBundle;
 
