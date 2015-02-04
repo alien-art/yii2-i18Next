@@ -1,0 +1,23 @@
+{
+    "name": "apollo/yii2-i18Next",
+    "description": "Assets for use i18 next",
+    "type": "yii2-i18Next",
+    "keywords": ["yii2","i18Next.js"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "bower-asset/i18next": "@stable"
+    },
+    "authors": [
+        {
+            "name": "appolo",
+            "email": "vov4ik08@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "apollo\\yii2\\i18Next\\": ""
+        }
+    }
+}
